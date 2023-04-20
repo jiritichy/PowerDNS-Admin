@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:kinetic
 MAINTAINER Khanh Ngo "ngokhanhit@gmail.com"
 ARG ENVIRONMENT=development
 ENV ENVIRONMENT=${ENVIRONMENT}
