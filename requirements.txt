@@ -17,3 +17,4 @@ gunicorn==19.7.1
 python3-saml
 pyOpenSSL>=0.15
 pytz>=2017.3
+urllib3>=1.24.2 # not directly required, pinned by Snyk to avoid a vulnerability
