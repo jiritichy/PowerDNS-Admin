@@ -41,6 +41,3 @@ You can now access PowerDNS-Admin at url http://localhost:9191
 ![create domain page](https://github.com/ngoduykhanh/PowerDNS-Admin/wiki/images/readme_screenshots/fullscreen-domaincreate.png?raw=true)
 ![manage domain page](https://github.com/ngoduykhanh/PowerDNS-Admin/wiki/images/readme_screenshots/fullscreen-domainmanage.png?raw=true)
 ![two-factor authentication config](https://cloud.githubusercontent.com/assets/6447444/16111111/467f2226-33db-11e6-926a-01b4d15035d2.png)
-
-
-
