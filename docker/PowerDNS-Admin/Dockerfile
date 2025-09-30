@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM ubuntu:24.10
 MAINTAINER Khanh Ngo "ngokhanhit@gmail.com"
 ARG ENVIRONMENT=development
 ENV ENVIRONMENT=${ENVIRONMENT}
